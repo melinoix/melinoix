@@ -3,7 +3,7 @@
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=melinoix)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinoix)](https://github.com/anuraghazra/github-readme-stats)
+![Melinoix's GitHub stats](https://github-readme-stats.vercel.app/api?username=melinoix&show_icons=true)
 
 <!--
 **melinoix/melinoix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
