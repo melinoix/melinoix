@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=plastic&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 <!--
 **melinoix/melinoix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
