@@ -1,4 +1,7 @@
-[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=plastic&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=melinoix__)
+
 <!--
 **melinoix/melinoix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
