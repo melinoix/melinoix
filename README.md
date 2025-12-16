@@ -1,4 +1,4 @@
-[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Master-FF6D00?style=for-the-badge&labelColor=FFC400&logo=kubernetes&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=melinoix)
 
